@@ -5,8 +5,14 @@ Chess Engine will be coming soon.
 
 To do list: 
 	Create chessboard design
-	Add assests
-	import pieces
-	create gameloop
+	add variables to each chess piece
+
+completed:
+	Add assests - finished
+	import pieces - finished
+	create gameloop - finished
+
+source and credit for current chess pieces png:
+https://github.com/plemaster01/pygameChess/tree/main/assets/images
 
 	
