@@ -7,3 +7,6 @@ To do list:
 	Create chessboard design
 	Add assests
 	import pieces
+	create gameloop
+
+	
