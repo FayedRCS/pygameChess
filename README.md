@@ -15,4 +15,3 @@ completed:
 source and credit for current chess pieces png:
 https://github.com/plemaster01/pygameChess/tree/main/assets/images
 
-	
