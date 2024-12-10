@@ -6,6 +6,7 @@ Chess Engine will be coming soon.
 To do list: 
 	Create chessboard design
 	add variables to each chess piece
+ 
 completed:
 	Add assests - finished
 	import pieces - finished
